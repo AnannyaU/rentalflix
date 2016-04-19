@@ -2,6 +2,8 @@ package io.egen.rentalflix;
 
 import java.util.List;
 
+import io.egen.rentalflix.Movie;
+
 public interface IFlix {
 	
 	/**

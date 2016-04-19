@@ -1,11 +1,6 @@
 # rentalflix
-Java assessment for new training candidates.
+External Jars Used
 
-1. Fork this repository on your own github account.
-1. Clone the forked repository in your local machine.
-1. Import the project in any Java IDE.
-1. Develop MovieService by implementing IFlix interface. Instructions are given in IFlix.java
-1. Use any Java collection type in MovieService to store movies.
-1. Write JUnit test cases for MovieService in MovieServiceTest file.
-1. Keep in mind about possibilities of concurrent access to MovieService.
-1. Once completed, send the link of your github repo to the recruiter.
+1. junit-4.12.jar
+1. hamcrest-core-1.3.jar
+
